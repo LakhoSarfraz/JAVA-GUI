@@ -1,0 +1,8 @@
+you must install JDK to run this game !!!
+you can custumize the columns and rows of the game from 4 to 20
+
+if startGame.bat not work.
+copy paste the source code files to your any directory , use your own IDE for java
+and first run GameMenu.java
+
+

@@ -1,0 +1,2 @@
+
+java IdiotMain.java

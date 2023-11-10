@@ -1,0 +1,13 @@
+SWE23Data is main File that will should be run first
+
+!! You must install java (8 and later) to run this
+
+click on start.bat to start this app 
+if start.bat not work  then you can take following step
+
+1. copy/paste source code files to your any folder
+
+2. copy/paste student_data.txt to that folder
+
+
+now you can use any IDE for java and run SWE23Data.java to run this app

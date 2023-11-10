@@ -1,0 +1,10 @@
+MutliFrames is main File that will should be run first
+
+!! You must install java (8 and later) to run this
+
+click on start.bat to start this app 
+if start.bat not work  then you can take following step
+
+> copy/paste source code files to your any folder
+
+> now you can use any IDE for java and run MultiFrames.java to run this app

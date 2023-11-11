@@ -1,1 +1,2 @@
-java workingFiles/SWE23Data
+java SWE23Data
+pause

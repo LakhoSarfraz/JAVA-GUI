@@ -21,7 +21,7 @@ public class TextToLabel{
 			
 		});
 		
-		label=new Label("TextField to Label");
+		label=new Label("Type something an press button");
 		textField=new TextField("");
 		button=new Button("Button 1");
 		
